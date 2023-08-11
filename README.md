@@ -1,0 +1,2 @@
+This is my first project on TOP. It's about building a website that contains food recipes. It has one main page that contains links to other pages, each with a different recipe.
+It's build using basics of HTML and CSS. All the work is done through VS Code and hosted on GitHub
